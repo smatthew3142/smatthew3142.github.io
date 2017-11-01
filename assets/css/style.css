@@ -1,0 +1,21 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+
+.top-banner h1{
+
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.sidebar {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 36px;
+  font-weight: bold;
+  display:inline;
+}
